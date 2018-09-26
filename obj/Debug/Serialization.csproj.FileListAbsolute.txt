@@ -1,0 +1,7 @@
+F:\JAVA\C#\Serialization\Serialization\bin\Debug\Serialization.exe.config
+F:\JAVA\C#\Serialization\Serialization\bin\Debug\Serialization.exe
+F:\JAVA\C#\Serialization\Serialization\bin\Debug\Serialization.pdb
+F:\JAVA\C#\Serialization\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
+F:\JAVA\C#\Serialization\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+F:\JAVA\C#\Serialization\Serialization\obj\Debug\Serialization.exe
+F:\JAVA\C#\Serialization\Serialization\obj\Debug\Serialization.pdb
